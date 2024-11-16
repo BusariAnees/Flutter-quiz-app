@@ -9,9 +9,9 @@ Test your anime knowledge with the Ultimate Anime Quiz App,Created out of fun, p
 - Ten fun questions.
 
 ##Screenshots
-![some screenshots from my emulator](assets/images/screenshot-1.png)
-![some screenshots from my emulator](assets/images/screenshot-2.png),
-![some screenshots from my emulator](assets/images/screenshot-3.jpg)
+![some screenshots from my emulator](titan_s_app/assets/images/screenshot-1.png)
+![some screenshots from my emulator](titan_s_app/assets/images/screenshot-2.png),
+![some screenshots from my emulator](titan_s_app/assets/images/screenshot-3.jpg)
 
 
 
